@@ -1,2 +1,2 @@
-# Numercal
+# Numerical
 Numerical method
