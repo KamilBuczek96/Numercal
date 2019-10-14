@@ -10,6 +10,7 @@ const double c=3;
 
 void SOR(double **matrix,const double * vector_b, double *start_vector,double w,int N){
 
+    double tem1 = 23
     double temp[N];
     double epsilon=0.0000000001;
     double roznica=epsilon+1;
