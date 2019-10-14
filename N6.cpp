@@ -11,6 +11,8 @@ double * Macierz_razy_wektor(double matrix[][N], const double *wektor){
     wektor_wynikowy[1]=matrix[1][0]*wektor[0]+matrix[1][1]*wektor[1]+matrix[1][2]*wektor[2];
     wektor_wynikowy[2]=matrix[2][1]*wektor[1]+matrix[2][2]*wektor[2];
 
+    cout<<"Napis nowy"
+
     return wektor_wynikowy;
 }
 
